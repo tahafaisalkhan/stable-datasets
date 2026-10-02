@@ -67,6 +67,7 @@ Available Datasets
    cub200
    country211
    galaxy10
+   gtsrb
    hasy_v2
    face_pointing
    rock_paper_scissor
